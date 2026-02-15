@@ -28,6 +28,12 @@ Instead of a backslash,
 end the line with two spaces  
 and return
 ---
+
+### Extra blank space
+
+I want 3 spaces between these &nbsp;&nbsp; words.
+
+---
 ### Link to UMBC Career Fair
 
 [UMBC 2026 Spring Career & Internship Fair](https://app.joinhandshake.com/stu/career_fairs/61895 "Link to Career Fair")
@@ -98,4 +104,6 @@ console.log(greet("World"));
 - [ ] Read textbook sections [^*]
 
 [^*]: Find out which sections of which books match up with this material
+
+
 
