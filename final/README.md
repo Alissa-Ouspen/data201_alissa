@@ -1,4 +1,4 @@
-###Files important for project submission: 
+Files important for project submission: 
 
 crash_EDA.ipynb
 crash_trees.ipynb
@@ -7,7 +7,7 @@ ensemble_trees.ipynb
 encoded_crash_data.csv
 
 -------------
-###Chronological progression of .ipynb files:
+Chronological progression of .ipynb files:
 
 crash_data_clean_1.ipynb
 crash_data_clean_2.ipynb
@@ -32,7 +32,7 @@ drivers_final3_df.csv
 
 encoded_crash_data.csv
 
-###Other files:
+Other files:
 encoding_key_1.png
 encoding_key_2.png
 crash_map_disclaimer.png
