@@ -1,9 +1,6 @@
-Files important for project submission:   
+Order of files important for project submission:   
 -------------------
-<<<<<<< HEAD
-=======
-crash_data_clean_1.ipynb   
->>>>>>> 600734f925864dae8dd8b8f705be0cda2429243a
+crash_data_clean_1.ipynb
 crash_EDA.ipynb  
 crash_trees.ipynb  
 ensemble_trees.ipynb  
