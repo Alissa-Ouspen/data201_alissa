@@ -21,8 +21,8 @@ train_trees_1st_attempt.ipynb
 
 crash_trees.ipynb
 ensemble_trees.ipynb
-
-###.csv files:
+-------------------
+.csv files:
 crash_data_cleaned_full.csv
 crash_data_cleaned_culled.csv
 crash_data_grouped_1.csv
@@ -31,7 +31,7 @@ drivers_final2_df.csv
 drivers_final3_df.csv
 
 encoded_crash_data.csv
-
+------------------------
 Other files:
 encoding_key_1.png
 encoding_key_2.png
